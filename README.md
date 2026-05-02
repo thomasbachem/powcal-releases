@@ -1,5 +1,9 @@
-# PowCal Beta – _Releases & Feedback_
+# PowCal – _Releases & Feedback_
 
-⬇️ **[Download Pre-Releases](https://github.com/thomasbachem/powcal-beta/releases)**
+🔗 **[Visit Website](https://powcal.com)**
 
-📣 **[Report Issues & Ideas](https://github.com/thomasbachem/powcal-beta/issues)**
+⭐️ **[Download Stable Releases](https://github.com/thomasbachem/powcal-releases/releases)**
+
+🚧 **[Download Beta Releases](https://github.com/thomasbachem/powcal-releases-beta/releases)**
+
+💡 **[Report Issues & Ideas](https://github.com/thomasbachem/powcal-releases/issues)**
